@@ -18,7 +18,7 @@ a {
 	color: #1a8cff;
 }
 .container-top{
-	width:100%;
+	/* width:100%; */
 	background-color:#f2f2f2;
 	border-top:3px solid #ff704d;
 }
@@ -287,7 +287,7 @@ th {
 	
 }
 .profile-image{
-	width:100%;
+	/* width:100%; */
 	/* height:160px; */
 	border-radius:6px;
 }
@@ -441,7 +441,7 @@ p{
 .mid-row-2 {
 	margin-top:5px;
 	float:left;
-	width:100%;
+	width:99%;
 	font-size:14px;
 	
 }
@@ -501,14 +501,14 @@ p{
 	font-size: 16px;
 }
 .trophy-row {
-	width:100%;
+	/* width:100%; */
 	float:left;
 }
 .text-trophy {
 	padding-left:15px;	
 }
 .community {
-	width:100%;
+	/* width:100%; */
 	padding-left:10px;
 }
 .com {
@@ -655,7 +655,7 @@ p{
 }
 .right-row-4 {
 	padding:5px;
-	width:100%;
+	/* width:100%; */
 	
 }
 .fa-stack-overflow {
@@ -1330,7 +1330,7 @@ ul {
 	color:black;
 }
 footer { 
-	width:100%;
+	width:99%;
 	display:flex;
 	color:#e6e6e6; 
 	font-weight:100;
